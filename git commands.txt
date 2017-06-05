@@ -1,0 +1,13 @@
+git init
+
+create a file
+
+git status
+
+git add filename
+
+git commit -m "commit message"
+
+
+
+
